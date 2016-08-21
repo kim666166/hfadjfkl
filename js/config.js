@@ -103,9 +103,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Enjoy the server",
-"Thanks for joining us!",
-"Did you know these backgrounds and songs are from Touhou?"
+"장난으로 하는 서버가 아닙니다. 진지해지세요.",
+"우리 좋은 부대원들이 당신을 반겨줄것입니다!",
+"아직 로딩화면이 제작중에 있습니다!"
 ];
 
 /*Random message order?*/
